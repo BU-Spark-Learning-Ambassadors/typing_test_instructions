@@ -44,6 +44,6 @@ To make the challenge more interesting and complex, consider the following enhan
 
 Feel free to explore other creative features that enhance the overall user experience and challenge level.
 
-##❔❔Need Help?
+## ❔❔Need Help?
 
 If you encounter any difficulties or need clarification, head over to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador**. They will assist you with any questions related to the Typing Test Challenge.
